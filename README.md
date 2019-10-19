@@ -1,2 +1,2 @@
 # Api
-[![](https://img.shields.io/badge/Protected%20by-Hound-blueviolet)](https://houndci.com)
+[![](https://img.shields.io/badge/Protected%20by-Hound-blueviolet)](https://houndci.com)[![Maintainability](https://api.codeclimate.com/v1/badges/e1f24f39eef04bf7c67a/maintainability)](https://codeclimate.com/github/xcixor/doc-oc/maintainability)
