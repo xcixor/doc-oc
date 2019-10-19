@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 pygments = "*"
+flake8 = "*"
+tox = "*"
 
 [packages]
 django = "==2.2.6"
