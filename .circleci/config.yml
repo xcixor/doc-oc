@@ -12,12 +12,11 @@ jobs:
           command: |
             sudo pip install pipenv==2018.11.26
             pipenv install
-            pipenv shell
       - run:
           name: Run Tests
           command: |
             cd src/core
-            python manage.py test
+            pipenv run python manage.py test
 workflows:
   version: 2
   test-application:
