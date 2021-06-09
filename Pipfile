@@ -9,7 +9,7 @@ flake8 = "*"
 tox = "*"
 
 [packages]
-django = "==2.2.6"
+django = "==2.2.22"
 djangorestframework = "==3.10.3"
 
 [requires]
